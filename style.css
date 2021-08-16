@@ -1,0 +1,67 @@
+.calculator {
+  margin-left: 30%;
+  margin-top: 10%;
+  background-color: whitesmoke;
+  width: 480px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 2px black;
+}
+
+.plus,
+.minus,
+.mult,
+.divide {
+  color: white;
+  background-color: rgb(238, 85, 29);
+  width: 80px;
+  font-size: 20px;
+  font: bolder;
+  height: 40px;
+}
+
+.seven,
+.eight,
+.nine,
+.six,
+.five,
+.four,
+.three,
+.two,
+.one,
+.zero,
+.dot,
+.clear {
+  width: 80px;
+  height: 40px;
+  background-color: white;
+}
+
+.equals {
+  background-color: rgb(247, 214, 192);
+  color: orangered;
+  width: 80px;
+  height: 220px;
+  font-size: bolder;
+  font-size: x-large;
+}
+
+.screen {
+  background-color: white;
+  color: black;
+  border: 1px solid orangered;
+  width: 400px;
+  height: 50px;
+  text-align: right;
+  font-size: 40px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+table {
+  padding: 30px;
+}
+
+td {
+  padding: 10px;
+}
